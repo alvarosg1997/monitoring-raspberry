@@ -19,7 +19,7 @@ Antes de utilizar este repositorio, asegúrate de tener instalados Docker y Dock
 
 ```bash
 git clone https://github.com/alvarosg1997/monitoring-raspberry.git
-
+```
 2. Accede al directorio del repositorio clonado:
 
 ```bash
@@ -48,5 +48,3 @@ Consulta la documentación de cada servicio incluido en el Docker Compose para o
 ## Contribución
 
 Si deseas contribuir a este repositorio, siéntete libre de abrir un issue o enviar una solicitud de extracción. Agradecemos tus contribuciones y sugerencias para mejorar este proyecto.
-
-
